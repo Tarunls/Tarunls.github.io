@@ -1,0 +1,24 @@
+# Skills
+- skill: Languages
+  description: Java, C++, PHP, Python, HTML, CSS, TypeScript, JavaScript, SQL, Bash, Powershell
+
+- skill: Frameworks
+  description: Node.js, Express, React, Angular, Flask, Django
+
+- skill: Developer Tools
+  description: Git/GitHub, Maven, Jenkins, Postman
+
+- skill: Python Libraries
+  description: Pandas, NumPy, Matplotlib, Selinium, Scrapy, torch, Plotly
+
+- skill: Cloud Technologies
+  description: Azure, GCP
+
+- skill: AI Frameworks
+  description: Llama, GPT-4
+
+- skill: Others
+  description: Docker/Podman, Microservices, Kubernetes, Openshift, REST API
+
+
+
